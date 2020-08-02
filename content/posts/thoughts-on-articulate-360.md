@@ -12,7 +12,7 @@ post_format: []
 forceful_lite_total_view:
   - '19'
 authors:
-  - gpadmin
+  - Glenn_Preston
 path: /thoughts-on-articulate-360
 ---
 I have not really ever been a fan of subscription services, particularly software versions, so when Articulate announced Articulate 360 I was skeptical to say the least.
