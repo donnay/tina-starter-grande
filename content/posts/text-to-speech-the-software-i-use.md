@@ -1,25 +1,26 @@
 ---
-title: 'Text-to-Speech, the Software I Use'
-date: '2015-08-31T10:29:54-07:00'
+title: Text-to-Speech, the Software I Use
+date: 2015-08-31T10:29:54-07:00
 status: publish
 excerpt: ''
 type: post
 id: 766
-thumbnail: ../uploads/2015/09/TTS-Avatar.jpg
+thumbnail: "../uploads/2015/09/TTS-Avatar.jpg"
 category:
-    - 'Basic eLearning'
-    - 'Technology &amp; Devices'
+- Basic eLearning
+- Technology &amp; Devices
 tag: []
 post_format: []
 kopa_forceful_total_view:
-    - '36'
+- '36'
 forceful_lite_total_view:
-    - '59'
+- '59'
 authors:
-    - gpadmin
-path: /text-to-speech-the-software-i-use
+- gpadmin
+path: "/text-to-speech-the-software-i-use"
+
 ---
-In my last post, I discussed the pros and cons of using text-to-speech (TTS) in your eLearning modules. In this article, I will discuss the kinds of software available and why I am using what I use.
+![](/content/uploads/thumb-cache/c0d0497003efec434a8497b77881b062.png)In my last post, I discussed the pros and cons of using text-to-speech (TTS) in your eLearning modules. In this article, I will discuss the kinds of software available and why I am using what I use.
 
 Let’s start out with the software that creates the audio.
 
@@ -27,16 +28,16 @@ A number of companies specializing in creating TTS audio and some that create an
 
 **Here are some Text-to-speech options:**
 
-- NeoSpeech
-- IVONA
-- NaturalReader
-- Text2Speech
+* NeoSpeech
+* IVONA
+* NaturalReader
+* Text2Speech
 
 If you want the ability to create an avatar or illustrated talking person, then animator software is the way to go. There are numerous companies with easy to use avatar creation components, here are just a few:
 
-- SitePal
-- Character Builder
-- CrazyTalk7
+* SitePal
+* Character Builder
+* CrazyTalk7
 
 **SAPI5 Voices**
 
@@ -44,9 +45,9 @@ The final component to using TTS and having good voices is the voice engines. Th
 
 These voice engines can seem expensive but when you consider the amount of use you can get versus the cost of a professional voice over person, the ROI is great! Voice engines range from $750 to $1500 per voice for single commercial use. I have used all of these companies at one time or another.
 
-- Ceroproc
-- NeoSpeech
-- Loquendo
+* Ceroproc
+* NeoSpeech
+* Loquendo
 
 What I Use
 
