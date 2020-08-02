@@ -41,6 +41,11 @@ fields:
 - type: list
   name: authors
   label: authors
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: authors
 - type: text
   name: path
   label: path
