@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: document
   path: content/settings
-  label: Settings
+  label: theme options
 - type: directory
   path: content/uploads
   label: Uploads
