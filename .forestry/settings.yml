@@ -16,7 +16,7 @@ sections:
   path: content/pages
   label: Pages
 - type: document
-  path: content/posts
+  path: posts
   label: Posts
 upload_dir: content/uploads
 public_path: "/content/uploads"
