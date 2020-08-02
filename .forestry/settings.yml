@@ -11,11 +11,15 @@ sections:
   label: Posts
   create: all
   match: "**/*"
+  templates:
+  - postdefault
 - type: directory
   path: content/pages
   label: Pages
   create: all
   match: "**/*"
+  templates:
+  - pagedefault
 - type: document
   path: content/settings/site.json
   label: Site Settings
