@@ -5,13 +5,20 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: content/settings
-  label: theme options
-- type: directory
-  path: content/uploads
-  label: Uploads
-  create: all
+  path: content/settings/site.json
+  label: site
   match: "**/*"
+- type: document
+  path: content/settings/menu.json
+  label: Menu
+  match: "**/*"
+- type: document
+  path: content/settings/authors.json
+  label: authors
+  match: "**/*"
+- type: document
+  path: content/settings/theme.json
+  label: theme
 - type: document
   path: content/pages
   label: Pages
