@@ -47,6 +47,16 @@ function Post(props) {
         component: "date",
       },
       {
+        label: "Category",
+        name: "rawFrontmatter.category",
+        component: "tags",
+      },
+      {
+        label: "Tags",
+        name: "rawFrontmatter.tag",
+        component: "tags",
+      },
+      {
         label: "Hero Image",
         name: "rawFrontmatter.hero.image",
         component: "image",
@@ -86,6 +96,8 @@ function Post(props) {
             <InlineTextField name="rawFrontmatter.title" />
           </h1>
           <hr />
+          <div><small><strong>Category: </strong>{data.frontmatter.category}</small></div>
+          <div><small><strong>Tags: </strong>{data.frontmatter.tag}</small></div>
           <InlineWysiwyg name="rawMarkdownBody" format="markdown">
             <div
               dangerouslySetInnerHTML={{
@@ -119,6 +131,8 @@ export const postQuery = graphql`
         title
         draft
         authors
+        category
+        tag
         hero {
           large
           overlay
