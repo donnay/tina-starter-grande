@@ -4,7 +4,7 @@ date: 2015-08-21T10:16:46-07:00
 status: publish
 excerpt: ''
 type: post
-id: "762"
+id: 762
 thumbnail: "../uploads/2015/08/Text-to-speech.png"
 category:
 - Authoring Tools
@@ -20,10 +20,7 @@ kopa_forceful_total_view:
 forceful_lite_total_view:
 - '8'
 authors:
-- id: ''
-  name: ''
-  email: ''
-  link: ''
+- authors
 path: "/the-text-to-speech-conumdrum"
 
 ---
