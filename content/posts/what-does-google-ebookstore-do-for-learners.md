@@ -17,7 +17,7 @@ authors:
     - Glenn_Preston
 path: /what-does-google-ebookstore-do-for-learners
 ---
-[![](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/12/Google-books-21.bmp "Google books 2")](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/12/Google-books-21.bmp)Google today anoounced that it is launching it’s eBookstore. Reports from many blogs indicate there will be approximately 3 millions books available, both free and for purchase. That 3 million is only part of the 15 million books Google has digitally scanned and has stored in a repository.
+[![](/content/uploads/2010/12/Google-books-21.bmp "Google books 2")](/content/uploads/2010/12/Google-books-21.bmp)Google today anoounced that it is launching it’s eBookstore. Reports from many blogs indicate there will be approximately 3 millions books available, both free and for purchase. That 3 million is only part of the 15 million books Google has digitally scanned and has stored in a repository.
 
 So what does this mean for learners?
 

@@ -20,7 +20,7 @@ authors:
     - gpadmin
 path: /creating-a-working-virtual-classroom-space
 ---
-[![](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/06/IMG_0182-150x150.jpg "IMG_0182")](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/06/IMG_0182.jpg)When one is starting to create a virtual classroom space for their organization, many questions arise. This article we hopefully help you answer some of those and make your first session a brilliant one.
+[![](/content/uploads/2010/06/IMG_0182-150x150.jpg "IMG_0182")](/content/uploads/2010/06/IMG_0182.jpg)When one is starting to create a virtual classroom space for their organization, many questions arise. This article we hopefully help you answer some of those and make your first session a brilliant one.
 
 **Tip 1**  
 Content from the real classroom doesn’t always carry over well. Consider some of these factors..  

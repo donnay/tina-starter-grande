@@ -28,23 +28,23 @@ In the last issue I talked about the numerous LMS plugins that were available. E
 
 Here are the plugins I chose, and why…
 
-[![LearnDash](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2014/06/LearnDash.jpg)](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2014/06/LearnDash.jpg)
+[![LearnDash](/content/uploads/2014/06/LearnDash.jpg)](/content/uploads/2014/06/LearnDash.jpg)
 
 LearnDash was the LMS plugin I chose. I liked the ability and features, I like that development is on going and I like the the developer is involced in the Learning space as well. This is not to say other developers weren’t, just that this plugin best fit ME!
 
 I also added the following plugins..
 
-[![Badge OS](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2014/06/Badge-OS.jpg)](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2014/06/Badge-OS.jpg) Badge OS has a direct integration with LearnDash and allows me to create learning/accomplishment badges, Leaderboards, etc. This adds some gaming challenge features to my LMS.
+[![Badge OS](/content/uploads/2014/06/Badge-OS.jpg)](/content/uploads/2014/06/Badge-OS.jpg) Badge OS has a direct integration with LearnDash and allows me to create learning/accomplishment badges, Leaderboards, etc. This adds some gaming challenge features to my LMS.
 
-[![IThemes Security](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2014/06/IThemes-Security.jpg)  ](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2014/06/IThemes-Security.jpg)
+[![IThemes Security](/content/uploads/2014/06/IThemes-Security.jpg)  ](/content/uploads/2014/06/IThemes-Security.jpg)
 
 iThemes Security was recommended to me and once I uploaded the free version, I liked it a lot! It is simple to install and you just answer the questions, resolve the faulty elements and you have enhanced security on your site. This was important to me to preserve learners identities and also, because I was going eCommerce, added security.
 
-[![Insert Articulate](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2014/06/Insert-Articulate.jpg)](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2014/06/Insert-Articulate.jpg)This plugin gave me options to insert Articulate Storyline content, which was important for me, as much of my development is in Storyline these days.
+[![Insert Articulate](/content/uploads/2014/06/Insert-Articulate.jpg)](/content/uploads/2014/06/Insert-Articulate.jpg)This plugin gave me options to insert Articulate Storyline content, which was important for me, as much of my development is in Storyline these days.
 
 and finally for this issue,
 
-[![Log In Widget](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2014/06/Log-In-Widget.jpg)](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2014/06/Log-In-Widget.jpg)
+[![Log In Widget](/content/uploads/2014/06/Log-In-Widget.jpg)](/content/uploads/2014/06/Log-In-Widget.jpg)
 
 This Login Widget, ensured that a learner could sign in to my LMS from any page and log off just as easily.
 

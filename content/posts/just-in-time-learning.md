@@ -21,7 +21,7 @@ authors:
     - gpadmin
 path: /just-in-time-learning
 ---
-[![](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/08/Time-Is-Fleeting-150x150.jpg "Time-Is-Fleeting")](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/08/Time-Is-Fleeting.jpg)***Just-in-Time Learning***, provides you with ability to learn and develop a skill, quickly and just at the appropriate time. For example, You are completing a special application for a client, that just happens to be siiting across from you. You know this form but are not sure of all the components, and how to complete it properly.
+[![](/content/uploads/2010/08/Time-Is-Fleeting-150x150.jpg "Time-Is-Fleeting")](/content/uploads/2010/08/Time-Is-Fleeting.jpg)***Just-in-Time Learning***, provides you with ability to learn and develop a skill, quickly and just at the appropriate time. For example, You are completing a special application for a client, that just happens to be siiting across from you. You know this form but are not sure of all the components, and how to complete it properly.
 
 You activate a button on your screen and it takes you to a new window that demonstrates how to to complete the form and special items to look out for or questions to ask the client.
 

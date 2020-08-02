@@ -13,7 +13,7 @@ authors:
   - gpadmin
 path: /about
 ---
-[![](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/06/BKSI-V4-No-tagline_border.jpg "BKSI-V4--No-tagline_border")](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/06/BKSI-V4-No-tagline_border.jpg)
+[![](/content/uploads/2010/06/BKSI-V4-No-tagline_border.jpg "BKSI-V4--No-tagline_border")](/content/uploads/2010/06/BKSI-V4-No-tagline_border.jpg)
 
 **We are:**
 
@@ -23,7 +23,7 @@ Designers and facilitators of custom learning solutions – we build learning sy
 
 **We host online learning systems** – using our totally interactive learning environment, we create custom learning solutions available to your employees and customers anytime, anywhere. Check it out at [NetLearningSpace LMS](http://www.lms.netlearningspace.com "NetLearningSpace LMS").
 
-[![NLS_LMS Homepage](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/06/NLS_LMS-Homepage-300x188.png)](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/06/NLS_LMS-Homepage.png)
+[![NLS_LMS Homepage](/content/uploads/2010/06/NLS_LMS-Homepage-300x188.png)](/content/uploads/2010/06/NLS_LMS-Homepage.png)
 
 <address style="text-align: right;">Let’s Talk eLearning Copyright © 2010  
 BKSI.ca All rights reserved.  

@@ -17,7 +17,7 @@ authors:
     - Glenn_Preston
 path: /can-mooc-work-for-you
 ---
-[![learn in stone](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/06/learn-in-stone.jpg "learn-in-stone.jpg")](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/06/learn-in-stone.jpg)What you say is a MOOC?
+[![learn in stone](/content/uploads/2010/06/learn-in-stone.jpg "learn-in-stone.jpg")](/content/uploads/2010/06/learn-in-stone.jpg)What you say is a MOOC?
 
 It stands for — a massive open online course or what we used to call Webinars. It seems someone has come up with yet another acronym for an old method of getting information from one person to a lot of people.
 

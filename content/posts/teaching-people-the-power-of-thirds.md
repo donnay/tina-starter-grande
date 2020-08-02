@@ -17,7 +17,7 @@ authors:
     - Glenn_Preston
 path: /teaching-people-the-power-of-thirds
 ---
-[![](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/10/macmuseum-150x150.jpg "macmuseum")](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/10/macmuseum.jpg)During that latest MacBreakWeekly podcast, Alex Lindsay made a statement about liking to train people in thirds,
+[![](/content/uploads/2010/10/macmuseum-150x150.jpg "macmuseum")](/content/uploads/2010/10/macmuseum.jpg)During that latest MacBreakWeekly podcast, Alex Lindsay made a statement about liking to train people in thirds,
 
 - Train their mind a 1/3
 - Train their fingers a 1/3

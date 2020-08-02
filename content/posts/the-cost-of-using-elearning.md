@@ -19,7 +19,7 @@ authors:
     - gpadmin
 path: /the-cost-of-using-elearning
 ---
-[![](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/08/Participate-in-eLearning-Artwork-150x150.jpg "Participate in eLearning Artwork")](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/08/Participate-in-eLearning-Artwork.jpg)I am contacted weekly by companies or individuals that are interested in having eLearning developed for their organisations. What many don’t understand is what it costs and what is required to create and deploy GOOD eLearning content.
+[![](/content/uploads/2010/08/Participate-in-eLearning-Artwork-150x150.jpg "Participate in eLearning Artwork")](/content/uploads/2010/08/Participate-in-eLearning-Artwork.jpg)I am contacted weekly by companies or individuals that are interested in having eLearning developed for their organisations. What many don’t understand is what it costs and what is required to create and deploy GOOD eLearning content.
 
 Well I’m here to tell you that for every hour of good eLearning, it is going to take, at least, 50 hours of development.
 

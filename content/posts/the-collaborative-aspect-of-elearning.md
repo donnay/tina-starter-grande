@@ -35,6 +35,6 @@ I am working on an Introudction to Onboarding course that I plan to use AvayaLiv
 
 If you want to check out AvayaLive engage, here is a link to their site… [AvayaLive Engage](http://www.avaya.com/ca-en/VideoPlayerInLine.aspx?CurrentPath=/master-usa/en-us/resource/assets/videos/AvayaLive_Engage.xml&htmltrigger=video-overlay "AvayaLive Engage")[  ](http://www.avaya.com/ca-en/VideoPlayerInLine.aspx?CurrentPath=/master-usa/en-us/resource/assets/videos/AvayaLive_Engage.xml&htmltrigger=video-overlay "AvayaLive Engage")
 
-<div class="wp-caption alignleft" id="attachment_411" style="width: 160px">[![Captured image from an AvayaLive engage space.](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2013/11/Screen-Shot-2013-09-16-at-10.37.20-PM-150x150.jpg)](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2013/11/Screen-Shot-2013-09-16-at-10.37.20-PM.jpg)Captured image from an AvayaLive engage space.
+<div class="wp-caption alignleft" id="attachment_411" style="width: 160px">[![Captured image from an AvayaLive engage space.](/content/uploads/2013/11/Screen-Shot-2013-09-16-at-10.37.20-PM-150x150.jpg)](/content/uploads/2013/11/Screen-Shot-2013-09-16-at-10.37.20-PM.jpg)Captured image from an AvayaLive engage space.
 
 </div>PS: I don’t have any financial interest in this company I just think this is a very cool and useful.

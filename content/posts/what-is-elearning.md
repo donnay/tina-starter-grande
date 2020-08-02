@@ -13,7 +13,7 @@ authors:
     - gpadmin
 path: /what-is-elearning
 ---
-[![Man with computer in a lanw chair](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/06/Copy-of-manlawnchair1-e1278097497483.jpg "manlawnchair1")](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/06/Copy-of-manlawnchair1-e1278097497483.jpg)Many people get confused when I tell the I am an ***eLearning Specialist***. They look at you with quizzical eyes and need to know more.
+[![Man with computer in a lanw chair](/content/uploads/2010/06/Copy-of-manlawnchair1-e1278097497483.jpg "manlawnchair1")](/content/uploads/2010/06/Copy-of-manlawnchair1-e1278097497483.jpg)Many people get confused when I tell the I am an ***eLearning Specialist***. They look at you with quizzical eyes and need to know more.
 
 I tell them that I help companies to develop training and use it on the internet. This seems to help. But there are all kinds of actions or activities that can be called “eLearning”. Here are some terms to help you get by:
 

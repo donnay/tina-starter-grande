@@ -21,7 +21,7 @@ authors:
     - gpadmin
 path: /what-is-an-avatar-and-why-use-them
 ---
-[![](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/09/screen-capture1-150x150.jpg "screen-capture")](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/09/screen-capture1.jpg)An avatar is an animated image used in eLeanring. Avatars can look like people and even look like personalities.
+[![](/content/uploads/2010/09/screen-capture1-150x150.jpg "screen-capture")](/content/uploads/2010/09/screen-capture1.jpg)An avatar is an animated image used in eLeanring. Avatars can look like people and even look like personalities.
 
 But why use them?
 

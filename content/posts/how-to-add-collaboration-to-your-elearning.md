@@ -26,7 +26,7 @@ I had the pleasure recently to explore the world of 3d Virtual spaces. A client 
 I loved being able to explore this area and had a blast! There are only about 3 or 4 companies in the space, Second Life being the one most known, but when snooping around, I felt it just didn’t quite make it for corporations without a lot of work.
 
 Of the three contenders, I found **Avaya Live** to be the most complete.  
-[![Screen Shot 2013-09-16 at 10.36.22 PM](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2013/10/Screen-Shot-2013-09-16-at-10.36.22-PM-150x150.jpg)](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2013/10/Screen-Shot-2013-09-16-at-10.36.22-PM.jpg)
+[![Screen Shot 2013-09-16 at 10.36.22 PM](/content/uploads/2013/10/Screen-Shot-2013-09-16-at-10.36.22-PM-150x150.jpg)](/content/uploads/2013/10/Screen-Shot-2013-09-16-at-10.36.22-PM.jpg)
 
 Wow did this software and it’s capabilities knock my socks off. I love lots about it and will add more in the next post.
 

@@ -22,7 +22,7 @@ authors:
     - Glenn_Preston
 path: /ipads-in-education-one-schools-experience
 ---
-[![](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/10/DSC_0034-e1286166918729-150x150.jpg "DSC_0034")](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/10/DSC_0034.jpg)I had the pleasure to be introduced, via a podcast to Fraser Speirs, among other things a Computing Teacher at a small private school in Scotland.  
+[![](/content/uploads/2010/10/DSC_0034-e1286166918729-150x150.jpg "DSC_0034")](/content/uploads/2010/10/DSC_0034.jpg)I had the pleasure to be introduced, via a podcast to Fraser Speirs, among other things a Computing Teacher at a small private school in Scotland.  
 Fraser has moved the school to a point where every student and teacher now have an iPad. Here is a quote from his blog..  
 *<span style="color: #0000ff;">“I feel that teachers aren’t looking for “new software that I can run on this computing device”, rather that they’re asking “can I make this iPad into something else useful for my teaching?. </span>*
 

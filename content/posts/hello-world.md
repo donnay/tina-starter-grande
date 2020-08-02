@@ -18,7 +18,7 @@ authors:
     - gpadmin
 path: /hello-world
 ---
-[![](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/06/elearning-image-5-150x150.jpg "elearning image 5")](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/06/elearning-image-5.jpg)Merging education with technology for the greater good.
+[![](/content/uploads/2010/06/elearning-image-5-150x150.jpg "elearning image 5")](/content/uploads/2010/06/elearning-image-5.jpg)Merging education with technology for the greater good.
 
 We are in an age where many things are moving at a fast pace, the news we receive, the sports we watch, all arriving to us at break neck speeds. This can be daunting to many people as much of this information creates change for us, even if it just the change in weather.
 

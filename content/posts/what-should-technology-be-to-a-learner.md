@@ -17,7 +17,7 @@ authors:
     - Glenn_Preston
 path: /what-should-technology-be-to-a-learner
 ---
-[![](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/12/Technologysmall.jpg "Technologysmall")](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/12/Technologysmall.jpg)A couple of bloggers I follow have benn having a discussion about what technology should be to learners. @frankcrawford and @fraserspeirs have compiled a list as follows:
+[![](/content/uploads/2010/12/Technologysmall.jpg "Technologysmall")](/content/uploads/2010/12/Technologysmall.jpg)A couple of bloggers I follow have benn having a discussion about what technology should be to learners. @frankcrawford and @fraserspeirs have compiled a list as follows:
 
 **As a learner, technology should be:**  
 1.Everywhere, ready to use.  

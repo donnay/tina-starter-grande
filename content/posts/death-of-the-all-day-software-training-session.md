@@ -20,7 +20,7 @@ authors:
     - gpadmin
 path: /death-of-the-all-day-software-training-session
 ---
-[![](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/06/IMGP1459-150x150.jpg "IMGP1459")](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/06/IMGP1459.jpg)Many years ago I attended or facilitated many training sessions, partularly computer software training that were one or more days long. We conducted things this way because it was felt important for people to get as much information as possible for the best time they had available and buck.
+[![](/content/uploads/2010/06/IMGP1459-150x150.jpg "IMGP1459")](/content/uploads/2010/06/IMGP1459.jpg)Many years ago I attended or facilitated many training sessions, partularly computer software training that were one or more days long. We conducted things this way because it was felt important for people to get as much information as possible for the best time they had available and buck.
 
 Many instances of what I call the 3 o’clock freeze or brain overload happened when learners would have this glazed look on their faces and pretty much stop learning, answering questions, etc. Of course, sitting in a classroom for 6 to 7 hours in a day seemed like a good idea but now I know better.
 

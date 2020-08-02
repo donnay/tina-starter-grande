@@ -22,7 +22,7 @@ authors:
     - gpadmin
 path: /the-fifth-discipline-learning
 ---
-[![](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/08/Inspiration-pt51-243x300.jpg "Inspiration-pt5")](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/08/Inspiration-pt51.jpg)Peter Senge wrote in his book The Fifth Discipline, <span style="color: #3366ff;">*“The ability to learn faster than your competitor may be the only sustainable competitve advantage”*</span>.
+[![](/content/uploads/2010/08/Inspiration-pt51-243x300.jpg "Inspiration-pt5")](/content/uploads/2010/08/Inspiration-pt51.jpg)Peter Senge wrote in his book The Fifth Discipline, <span style="color: #3366ff;">*“The ability to learn faster than your competitor may be the only sustainable competitve advantage”*</span>.
 
 So what Peter may be saying is, if you encourage your employees or organization to continue to learn, and are adapt at performing conitnuous learning better than your competitor, it will give you an advantage. I agree one hundred percent!
 

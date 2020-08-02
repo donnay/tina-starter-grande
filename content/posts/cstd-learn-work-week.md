@@ -19,7 +19,7 @@ authors:
     - gpadmin
 path: /cstd-learn-work-week
 ---
-[![](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/09/lww_logo_engclr_20101.jpg "lww_logo_engclr_2010")](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/09/lww_logo_engclr_20101.jpg)As anyone who has been reading my posts knows, I am a big proponent of companies who invest in the knowledge their employees aquire. I was happy this past week at a client’s to see them promote and advertise what they are doing for the Canadian Society for Training and Development’s (CSTD) Learn @ Work Week which is September 20 – 24th, 2010.
+[![](/content/uploads/2010/09/lww_logo_engclr_20101.jpg "lww_logo_engclr_2010")](/content/uploads/2010/09/lww_logo_engclr_20101.jpg)As anyone who has been reading my posts knows, I am a big proponent of companies who invest in the knowledge their employees aquire. I was happy this past week at a client’s to see them promote and advertise what they are doing for the Canadian Society for Training and Development’s (CSTD) Learn @ Work Week which is September 20 – 24th, 2010.
 
 Here is part of what the CSTD says on their web site…
 

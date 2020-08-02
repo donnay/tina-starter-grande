@@ -19,7 +19,7 @@ authors:
     - Glenn_Preston
 path: /connectivism-in-learning
 ---
-[![](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/06/cropped-BurrardBridge-150x150.jpg "cropped-BurrardBridge.jpg")](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/06/cropped-BurrardBridge.jpg) This article came from the Huffington Post’s Stephen Downes, who is becoming very knowledgable about connectivism.
+[![](/content/uploads/2010/06/cropped-BurrardBridge-150x150.jpg "cropped-BurrardBridge.jpg")](/content/uploads/2010/06/cropped-BurrardBridge.jpg) This article came from the Huffington Post’s Stephen Downes, who is becoming very knowledgable about connectivism.
 
 <span style="color: #008000;">**<span style="text-decoration: underline;">W</span>**</span>[<span style="color: #008000;">**hat is connectivism**</span>](http://halfanhour.blogspot.com/2007/02/what-connectivism-is.html)<span style="color: #008000;">**<span style="text-decoration: underline;">?</span>**</span> <span style="color: #008000;">At its heart, connectivism is the thesis that knowledge is distributed across a network of connections, and therefore that learning consists of the ability to construct and traverse those networks. Knowledge, therefore, is not *acquired*, as though it were a thing. It is not *transmitted*, as though it were some type of communication. </span>
 

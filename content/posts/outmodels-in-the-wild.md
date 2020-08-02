@@ -19,7 +19,7 @@ authors:
     - gpadmin
 path: /outmodels-in-the-wild
 ---
-[![](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/08/outmodels-web.jpg "outmodels-web")](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/08/outmodels-web.jpg)
+[![](/content/uploads/2010/08/outmodels-web.jpg "outmodels-web")](/content/uploads/2010/08/outmodels-web.jpg)
 
 This is an amazing article/statement along with the photo I found on Flickr. It is so cool I had to present it here as part of my eLearning blog. I would love to hear what you think of it!
 

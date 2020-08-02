@@ -23,7 +23,7 @@ authors:
     - gpadmin
 path: /mlearning-the-next-generation
 ---
-[![](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/08/Pulsar-is-Still-Kicking-NASA-Chandra-02-26-09-150x150.jpg "Pulsar is Still Kicking (NASA, Chandra, 02-26-09)")](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/08/Pulsar-is-Still-Kicking-NASA-Chandra-02-26-09.jpg)You have heard of classroom learning, blended learning and eLearning, now here comes **<span style="color: #008000;">mLearning</span>**!
+[![](/content/uploads/2010/08/Pulsar-is-Still-Kicking-NASA-Chandra-02-26-09-150x150.jpg "Pulsar is Still Kicking (NASA, Chandra, 02-26-09)")](/content/uploads/2010/08/Pulsar-is-Still-Kicking-NASA-Chandra-02-26-09.jpg)You have heard of classroom learning, blended learning and eLearning, now here comes **<span style="color: #008000;">mLearning</span>**!
 
 mLearning or Mobile learning uses mobile devices such as smartphones and iPod touches and even iPads to provide learning to the student.
 

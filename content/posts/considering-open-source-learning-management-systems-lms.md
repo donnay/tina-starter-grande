@@ -20,7 +20,7 @@ authors:
     - gpadmin
 path: /considering-open-source-learning-management-systems-lms
 ---
-[![](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/06/elearning-image-1-150x150.jpg "elearning image 1")](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/06/elearning-image-1.jpg)Over the past ten or fifteen years that eLearning has been around, many amazing learning management systems have come forward both commercial and not. One of the first that I used was WebCT, which was created right in my own back yard here in Vancouver, Canada by UBC. It was originally free for learning institutions and cost for commercial/profit organizations.
+[![](/content/uploads/2010/06/elearning-image-1-150x150.jpg "elearning image 1")](/content/uploads/2010/06/elearning-image-1.jpg)Over the past ten or fifteen years that eLearning has been around, many amazing learning management systems have come forward both commercial and not. One of the first that I used was WebCT, which was created right in my own back yard here in Vancouver, Canada by UBC. It was originally free for learning institutions and cost for commercial/profit organizations.
 
 It was created for the university and it ‘s students and faculty and quickly became a popular software force in the elearning community. Later it was purchased and made more commercial. I had used it for a company I worked for but then became too expensive to make it viable.
 

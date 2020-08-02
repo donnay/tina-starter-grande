@@ -22,7 +22,7 @@ authors:
     - gpadmin
 path: /life-long-learning
 ---
-[![](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/07/IMG_0079-150x150.jpg "IMG_0079")](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/07/IMG_0079.jpg)The CEO of Motorola once said ” *<span style="color: #0000ff;">Motorola no longer wants to hire engineers with a four year degree. Instead, we want employees to have a 40 year degree.</span>*“. What he was talking about is Life Long Learning.
+[![](/content/uploads/2010/07/IMG_0079-150x150.jpg "IMG_0079")](/content/uploads/2010/07/IMG_0079.jpg)The CEO of Motorola once said ” *<span style="color: #0000ff;">Motorola no longer wants to hire engineers with a four year degree. Instead, we want employees to have a 40 year degree.</span>*“. What he was talking about is Life Long Learning.
 
 Many companies are now proponents of continuous learning for their employees and clients versus getting a degree and finding a job. Life long learners have a passion or interest in always learning more, something different or just building a new skill they didn’t have before.
 

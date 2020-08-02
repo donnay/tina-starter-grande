@@ -23,8 +23,8 @@ These are older Lectora developed learning modules. No audio requirements.
 
 **Training Document Examples**
 
-[Chronos Job Aid](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2013/10/Chronos-Job-Aid.pdf)
+[Chronos Job Aid](/content/uploads/2013/10/Chronos-Job-Aid.pdf)
 
-[Talent Management Training Plan](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2013/10/Talent_Management_Training_Project_Plan_v2.pdf)
+[Talent Management Training Plan](/content/uploads/2013/10/Talent_Management_Training_Project_Plan_v2.pdf)
 
-[ePerformance for Managers of Union Employees](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2013/10/ePerformance_for_Managers_of_Union_Emps_v3.pdf)
+[ePerformance for Managers of Union Employees](/content/uploads/2013/10/ePerformance_for_Managers_of_Union_Emps_v3.pdf)

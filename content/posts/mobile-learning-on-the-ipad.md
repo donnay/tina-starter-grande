@@ -24,7 +24,7 @@ authors:
     - gpadmin
 path: /mobile-learning-on-the-ipad
 ---
-[![](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/08/This-Time-Its-Personal-150x150.png "This Time, It's Personal")](http://www.netlearningspace.com/bksi_new/wp-content/uploads/2010/08/This-Time-Its-Personal.png)The iPad, the latest and greatest Tablet to enter the marketplace in a long time. I have used tablet computers before but nothing like this.
+[![](/content/uploads/2010/08/This-Time-Its-Personal-150x150.png "This Time, It's Personal")](/content/uploads/2010/08/This-Time-Its-Personal.png)The iPad, the latest and greatest Tablet to enter the marketplace in a long time. I have used tablet computers before but nothing like this.
 
 So let’s talk about how this one device can change the mobile learning space.
 
