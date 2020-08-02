@@ -20,7 +20,7 @@ authors:
 path: "/text-to-speech-the-software-i-use"
 
 ---
-![](/content/uploads/thumb-cache/c0d0497003efec434a8497b77881b062.png)In my last post, I discussed the pros and cons of using text-to-speech (TTS) in your eLearning modules. In this article, I will discuss the kinds of software available and why I am using what I use.
+![](/content/uploads/2015/09/TTS-Avatar-250x202.jpg)In my last post, I discussed the pros and cons of using text-to-speech (TTS) in your eLearning modules. In this article, I will discuss the kinds of software available and why I am using what I use.
 
 Let’s start out with the software that creates the audio.
 
