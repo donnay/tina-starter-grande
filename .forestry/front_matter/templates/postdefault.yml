@@ -17,9 +17,11 @@ fields:
 - type: text
   name: type
   label: type
+  hidden: true
 - type: number
   name: id
   label: id
+  hidden: true
 - type: file
   name: thumbnail
   label: thumbnail
@@ -32,6 +34,7 @@ fields:
 - type: list
   name: post_format
   label: post_format
+  hidden: true
 - type: list
   name: kopa_forceful_total_view
   label: kopa_forceful_total_view
