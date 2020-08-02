@@ -1,0 +1,29 @@
+---
+label: PageDefault
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: path
+  label: path
+- type: field_group_list
+  name: blocks
+  label: blocks
+  fields:
+  - type: text
+    name: _template
+    label: _template
+  - type: text
+    name: title
+    label: title
+  - type: boolean
+    name: underline
+    label: underline
+  - type: text
+    name: content
+    label: content
+- type: boolean
+  name: displayTitle
+  label: displayTitle
