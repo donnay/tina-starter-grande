@@ -4,24 +4,30 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: content/settings/site.json
-  label: site
-- type: document
-  path: content/settings/menu.json
-  label: Menu
-- type: document
-  path: content/settings/authors.json
-  label: authors
-- type: document
-  path: content/settings/theme.json
-  label: theme
-- type: document
+- type: heading
+  label: TinaCMS
+- type: directory
+  path: content/posts
+  label: Posts
+  create: all
+  match: "**/*"
+- type: directory
   path: content/pages
   label: Pages
+  create: all
+  match: "**/*"
 - type: document
-  path: posts
-  label: Posts
+  path: content/settings/site.json
+  label: Site Settings
+- type: document
+  path: content/settings/menu.json
+  label: Menus
+- type: document
+  path: content/settings/authors.json
+  label: Authors
+- type: document
+  path: content/settings/theme.json
+  label: Theme Settings
 upload_dir: content/uploads
 public_path: "/content/uploads"
 front_matter_path: ''
