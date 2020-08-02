@@ -1,0 +1,46 @@
+---
+label: PostDefault
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: status
+  label: status
+- type: text
+  name: excerpt
+  label: excerpt
+- type: text
+  name: type
+  label: type
+- type: number
+  name: id
+  label: id
+- type: file
+  name: thumbnail
+  label: thumbnail
+- type: list
+  name: category
+  label: category
+- type: list
+  name: tag
+  label: tag
+- type: list
+  name: post_format
+  label: post_format
+- type: list
+  name: kopa_forceful_total_view
+  label: kopa_forceful_total_view
+- type: list
+  name: forceful_lite_total_view
+  label: forceful_lite_total_view
+- type: list
+  name: authors
+  label: authors
+- type: text
+  name: path
+  label: path
