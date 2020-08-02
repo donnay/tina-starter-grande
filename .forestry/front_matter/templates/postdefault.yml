@@ -47,8 +47,9 @@ fields:
   config:
     use_select: true
     source:
-      type: pages
-      section: authors
+      type: documents
+      section: ''
+      file: content/settings/authors.json
 - type: text
   name: path
   label: path
