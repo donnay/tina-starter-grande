@@ -1,0 +1,20 @@
+---
+label: authorDefault
+hide_body: true
+fields:
+- type: field_group_list
+  name: authors
+  label: authors
+  fields:
+  - type: text
+    name: id
+    label: id
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: email
+    label: email
+  - type: text
+    name: link
+    label: link
