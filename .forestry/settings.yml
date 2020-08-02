@@ -1,0 +1,42 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: ''
+webhook_url: 
+sections:
+- type: heading
+  label: TinaCMS
+- type: directory
+  path: content/posts
+  label: Posts
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/pages
+  label: Pages
+  create: all
+  match: "**/*"
+- type: document
+  path: content/settings/site.json
+  label: Site Settings
+- type: document
+  path: content/settings/menu.json
+  label: Menus
+- type: document
+  path: content/settings/authors.json
+  label: Authors
+- type: document
+  path: content/settings/theme.json
+  label: Theme Settings
+upload_dir: content/uploads
+public_path: "/content/uploads"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
+build:
+  preview_output_directory: public
+  install_dependencies_command: npm install
+  preview_docker_image: forestryio/node:12
+  mount_path: "/srv"
+  working_dir: "/srv"
+  instant_preview_command: npm run develop
